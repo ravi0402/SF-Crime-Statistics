@@ -41,12 +41,3 @@ To stream the data , I used the following command `spark-submit --packages org.a
 And this is what I obtained
 
 ![data](data.png)
-
-## Data Set
-
-Hello Reviewer,
-Please, by the time I worked on this project, the dataset that was provided in the project resources did no match the starter code. The starter code that was present did not match even in the sense of the actual project. It had fields like longitude and latitude which has nothing to do with CRIME Statistics.
-So I searched abit and saw a database on `kaggle` on the link:`https://www.kaggle.com/san-francisco/sf-police-calls-for-service-and-incidents/version/61`
-All the fields required to run the starter code were present ,I just had to do little modifications to the dataset like adding underscores to have a perfect fit.
-
-Thanks.
